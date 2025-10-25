@@ -1,10 +1,10 @@
 
-🏍️ India Bike Sales Analysis & Interactive Excel Dashboard
+# 🏍️ India Bike Sales Analysis & Interactive Excel Dashboard
 A 100% Microsoft Excel-based solution for transforming raw sales data into actionable business intelligence.
 
 This project conducts a detailed analysis of the Indian two-wheeler market, leveraging the full power of Microsoft Excel for data processing, visualization, and dynamic reporting.
 
-The goal is to provide immediate, accessible insights into key performance metrics like:
+# The goal is to provide immediate, accessible insights into key performance metrics like:
 
 * Regional Sales Trends
 
